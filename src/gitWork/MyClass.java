@@ -1,5 +1,5 @@
 package gitWork;
 
 public class MyClass {
-    private String name = "secondBranch";
+    private String name = "master";
 }
